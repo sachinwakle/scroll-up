@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+  "name": "Scroll-Up",
+  "version": "1.0.0",
+  "description": "This extension helps to scroll-up page to the top",
+  "icons": { "128": "navigator-up-arrow-20-20.png" },
+  "background": {
+    "scripts": ["scrollUpBackgroundScript.js"]
+  },
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["scrollUpContentScript.js"],
+      "css": ["scrollUpContent.css"]
+    }
+  ],
+  "browser_action": {
+    "default_icon": {
+      "32": "navigator-up-arrow-20-20.png"
+    }
+  },
+  "web_accessible_resources": ["navigator-up-arrow.png"]
+}

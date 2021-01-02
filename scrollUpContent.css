@@ -1,0 +1,33 @@
+html {
+  scroll-behavior: smooth;
+}
+
+div#topPageElement.scroll-up-target {
+  visibility: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+a#scrollUpLinkId.scroll-up-link {
+  text-decoration: none !important;
+  cursor: pointer;
+}
+
+a#scrollUpLinkId.scroll-up-link:hover {
+  text-decoration: none !important;
+}
+
+div.scroll-up-navigator-container {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  border-radius: 50%;
+  width: 2rem;
+  height: 2rem;
+  background-color: #1085e5;
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
