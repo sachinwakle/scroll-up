@@ -18,4 +18,4 @@ chrome://extensions/
 ### 6. Wait for one or two minutes. After somr time you should be able to see ```Srcoll-Up``` app in chrome extension window.
 
 ### 7. Now you can browse any web page and you will see scroll-up (arrow) button on right bottom side of the web page as shown below
-![scroll-up button](https://github.com/sachinwakle/scroll-up/blob/prepare-readme/github.com_sachinwakle_scroll-up.png?raw=true)
+![scroll-up button](https://github.com/sachinwakle/scroll-up/blob/main/github.com_sachinwakle_scroll-up.png?raw=true)
