@@ -1,8 +1,10 @@
 # Scroll-up ^
 
-Scroll-Up google chrome extension for chrome web browser for scrolling up web page from bottom to top quickly.
+### Scroll-Up google chrome extension for chrome web browser for scrolling up web page from bottom to top quickly.
 
-> **_NOTE:_** Final chrome extension app build is under review in google chrome web store, so couldn't make it available for direct installation in chrome browser. Following is the alternate way of installing scroll-up chrome extension. Please follow the steps given below.
+> **_NOTE:_** Final chrome extension app build is under review in google chrome web store, so couldn't make it available for direct installation in chrome browser. Following is the alternate way of installing scroll-up chrome extension.
+
+## Please follow the steps given below
 
 1. Downlaod the zip file from below link
    [scroll-up zip file](https://github.com/sachinwakle/scroll-up/archive/main.zip)
