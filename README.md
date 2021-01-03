@@ -23,3 +23,6 @@
 7. Now you can browse any web page and you will see scroll-up (arrow) button on right bottom side of the web page as shown below
 
    ![scroll-up button](https://github.com/sachinwakle/scroll-up/blob/main/github.com_sachinwakle_scroll-up.png?raw=true)
+
+## On Screen Demo
+![scroll-up-demo](https://gist.githubusercontent.com/sachinwakle/80fe3a0e25480bab114da8f6316af6f8/raw/734fbe1419f7f44484c32fb9908ba94a31df5559/scroll-up-640-400.gif)
