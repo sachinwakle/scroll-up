@@ -21,13 +21,14 @@ div.scroll-up-navigator-container {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   text-align: center;
   border-radius: 50%;
-  width: 2rem;
-  height: 2rem;
-  background-color: #1085e5;
-  position: fixed;
-  bottom: 1rem;
-  right: 1rem;
+  width: fit-content;
+  height: fit-content;
+  background-color: transparent;
   display: flex;
   justify-content: center;
   align-items: center;
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  z-index: 10;
 }
